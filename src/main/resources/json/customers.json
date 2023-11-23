@@ -1,0 +1,20 @@
+[
+  {
+    "customer_id": 101,
+    "customer_name": "John Sr",
+    "customer_phone": "999999999",
+    "customer_email": "john@gmail.com"
+  },
+  {
+    "customer_id": 102,
+    "customer_name": "Tom Sr",
+    "customer_phone": "999999999",
+    "customer_email": "tom@gmail.com"
+  },
+  {
+    "customer_id": 101,
+    "customer_name": "Mike Jr",
+    "customer_phone": "999999999",
+    "customer_email": "mike@gmail.com"
+  }
+]
